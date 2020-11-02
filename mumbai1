@@ -1,10 +1,22 @@
 How to initialize a git repository ?
+A: git init
 What's the git command that downloads your repository from GitHub to your computer?
+A: git clone followed_URL
 What's the opposite of git clone, instead of downloading your code from GitHub, uploads your changes and code back to GitHub?
+A:Git push orgin master
 How do you check the state of your local git repository since your last commit?
+A: git status
 How do you stage files for a commit?
+A: git add .
 How do you save the current state of your code into the git repository(locally) ?
+A: git commit
 How can you create a branch and switch to it directly?
+A: git branch iss53 >> to create branch .git checkout iss53 >> to check out that bracnh.
+   git checkout -b iss53 ------single command
 How Merge the changes that were made in the working branch with the master branch ?
+A: git merge branch_name
 How to deletes the file from your working directory and stages the deletion ?
+A:git rm fielname
 18. In Git how do you revert a commit that has already been pushed and made public?
+A: git revert command
+
