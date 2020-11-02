@@ -1,5 +1,10 @@
-Ae dil-e-nādāñ tujhe huā kyā hai 
-āḳhir is dard kī davā kyā hai
-hm haiñ mushtāq aur vo be-zār 
-yā ilāhī ye mājrā kyā hai 
-adding changes with new origin name "IMI"
+How to initialize a git repository ?
+What's the git command that downloads your repository from GitHub to your computer?
+What's the opposite of git clone, instead of downloading your code from GitHub, uploads your changes and code back to GitHub?
+How do you check the state of your local git repository since your last commit?
+How do you stage files for a commit?
+How do you save the current state of your code into the git repository(locally) ?
+How can you create a branch and switch to it directly?
+How Merge the changes that were made in the working branch with the master branch ?
+How to deletes the file from your working directory and stages the deletion ?
+18. In Git how do you revert a commit that has already been pushed and made public?
