@@ -19,4 +19,5 @@ How to deletes the file from your working directory and stages the deletion ?
 A:git rm fielname
 In Git how do you revert a commit that has already been pushed and made public?
 A: git revert command
-
+git config --global user.name "your name"
+git config --global user.email"your email"
