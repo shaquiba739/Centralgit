@@ -17,6 +17,12 @@ How Merge the changes that were made in the working branch with the master branc
 A: git merge branch_name
 How to deletes the file from your working directory and stages the deletion ?
 A:git rm fielname
+<<<<<<< HEAD
+18. In Git how do you revert a commit that has already been pushed and made public?
+A: git revert commandi check 
+=======
 In Git how do you revert a commit that has already been pushed and made public?
 A: git revert command
-
+git config --global user.name "your name"
+git config --global user.email"your email"
+>>>>>>> 1fd51686cc0c378ec22cc7e4a7d6b6834f68f174
